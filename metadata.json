@@ -1,0 +1,8 @@
+{
+  "name": "Remix VoC Copilot",
+  "description": "AI-powered Voice of Customer platform for Product Managers to analyze customer feedback, discover themes, prioritize product opportunities, and generate PRDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
